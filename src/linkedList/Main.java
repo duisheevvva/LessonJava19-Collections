@@ -13,10 +13,11 @@ public class Main {
 //        Collections.sort(students);
 //        System.out.println("TEst" + students);
 
-        List<Mentor> mentors = new LinkedList<>(List.of(
+        LinkedList<Mentor> mentors = new LinkedList<>(List.of(
                 new Mentor("Nurpazyl",30),
                 new Mentor("Saikal",20)
         ));
+
 
 
 
